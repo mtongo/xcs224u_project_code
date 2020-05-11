@@ -1,0 +1,179 @@
+,adsh,name,line,stmt,tlabel,plabel
+41570,0001555280-16-000344,ZOETIS INC.,18,BS,"Accounts Payable, Current",Accounts payable
+41571,0001555280-16-000344,ZOETIS INC.,3,BS,"Accounts Receivable, Net, Current","Accounts receivable, less allowance for doubtful accounts of $34 in 2015 and $32 in 2014"
+41572,0001555280-16-000344,ZOETIS INC.,20,BS,"Accrued Liabilities, Current",Accrued expenses
+41573,0001555280-16-000344,ZOETIS INC.,2,BS,"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",Accumulated depreciation
+41574,0001555280-16-000344,ZOETIS INC.,35,BS,Additional Paid in Capital,Additional paid-in capital
+41575,0001555280-16-000344,ZOETIS INC.,7,EQ,Additional Paid-in Capital [Member],Additional Paid-in Capital
+41576,0001555280-16-000344,ZOETIS INC.,3,CF,Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract],Adjustments to reconcile net income before noncontrolling interests to net cash provided by/(used in) operating activities
+41577,0001555280-16-000344,ZOETIS INC.,1,BS,"Allowance for Doubtful Accounts Receivable, Current",Allowance for doubtful accounts
+41578,0001555280-16-000344,ZOETIS INC.,14,BS,Assets,Total assets
+41579,0001555280-16-000344,ZOETIS INC.,1,BS,Assets [Abstract],Assets
+41580,0001555280-16-000344,ZOETIS INC.,8,BS,"Assets, Current",Total current assets
+41581,0001555280-16-000344,ZOETIS INC.,41,CF,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents at beginning of period
+41582,0001555280-16-000344,ZOETIS INC.,42,CF,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents at end of period
+41583,0001555280-16-000344,ZOETIS INC.,2,BS,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents
+41584,0001555280-16-000344,ZOETIS INC.,40,CF,"Cash and Cash Equivalents, Period Increase (Decrease)",Net increase in cash and cash equivalents
+41585,0001555280-16-000344,ZOETIS INC.,31,BS,Commitments and Contingencies,Commitments and contingencies
+41586,0001555280-16-000344,ZOETIS INC.,4,EQ,Common Stock [Member],Common Stock
+41587,0001555280-16-000344,ZOETIS INC.,5,BS,"Common Stock, Par or Stated Value Per Share","Common stock, par value (in dollars per share)"
+41588,0001555280-16-000344,ZOETIS INC.,6,BS,"Common Stock, Shares Authorized","Common stock, authorized"
+41589,0001555280-16-000344,ZOETIS INC.,7,BS,"Common Stock, Shares, Issued","Common stock, issued"
+41590,0001555280-16-000344,ZOETIS INC.,8,BS,"Common Stock, Shares, Outstanding","Common stock, outstanding"
+41591,0001555280-16-000344,ZOETIS INC.,1,EQ,"Common Stock, Shares, Outstanding","Common stock, outstanding"
+41592,0001555280-16-000344,ZOETIS INC.,33,BS,"Common Stock, Value, Issued","Common stock, $0.01 par value: 6,000,000,000 authorized, 501,808,229 and 501,342,267 shares issued; 497,400,113 and 501,327,524 shares outstanding at December 31, 2015 and 2014, respectively"
+41593,0001555280-16-000344,ZOETIS INC.,2,IS,Costs and Expenses [Abstract],Costs and expenses:
+41594,0001555280-16-000344,ZOETIS INC.,9,CF,Deferred Income Tax Expense (Benefit),Deferred taxes
+41595,0001555280-16-000344,ZOETIS INC.,4,CF,"Depreciation, Depletion and Amortization",Depreciation and amortization expense
+41596,0001555280-16-000344,ZOETIS INC.,15,IS,"Earnings Per Share, Basic and Diluted [Abstract]",Earnings per share attributable to Zoetis Inc. stockholders:
+41597,0001555280-16-000344,ZOETIS INC.,3,EQ,Equity Component [Domain],Equity Component [Domain]
+41598,0001555280-16-000344,ZOETIS INC.,11,IS,Income Tax Expense (Benefit),Provision for taxes on income
+41599,0001555280-16-000344,ZOETIS INC.,17,CF,Increase (Decrease) in Accounts Payable,Accounts payable
+41600,0001555280-16-000344,ZOETIS INC.,14,CF,Increase (Decrease) in Accounts Receivable,Accounts receivable
+41601,0001555280-16-000344,ZOETIS INC.,15,CF,Increase (Decrease) in Inventories,Inventories
+41602,0001555280-16-000344,ZOETIS INC.,12,EQ,Increase (Decrease) in Stockholders' Equity [Roll Forward],Increase (Decrease) in Stockholders' Equity [Roll Forward]
+41603,0001555280-16-000344,ZOETIS INC.,8,IS,Interest Expense,"Interest expense, net of capitalized interest"
+41604,0001555280-16-000344,ZOETIS INC.,30,BS,Liabilities,Total liabilities
+41605,0001555280-16-000344,ZOETIS INC.,41,BS,Liabilities and Equity,Total liabilities and equity
+41606,0001555280-16-000344,ZOETIS INC.,15,BS,Liabilities and Equity [Abstract],Liabilities and Equity
+41607,0001555280-16-000344,ZOETIS INC.,25,BS,"Liabilities, Current",Total current liabilities
+41608,0001555280-16-000344,ZOETIS INC.,23,BS,"Disposal Group, Including Discontinued Operation, Liabilities, Current",Liabilities associated with assets held for sale
+41609,0001555280-16-000344,ZOETIS INC.,38,CF,Net Cash Provided by (Used in) Financing Activities,Net cash provided by/(used in) financing activities
+41610,0001555280-16-000344,ZOETIS INC.,29,CF,Net Cash Provided by (Used in) Financing Activities [Abstract],Financing Activities
+41611,0001555280-16-000344,ZOETIS INC.,28,CF,Net Cash Provided by (Used in) Investing Activities,Net cash used in investing activities
+41612,0001555280-16-000344,ZOETIS INC.,21,CF,Net Cash Provided by (Used in) Investing Activities [Abstract],Investing Activities
+41613,0001555280-16-000344,ZOETIS INC.,20,CF,Net Cash Provided by (Used in) Operating Activities,Net cash provided by operating activities
+41614,0001555280-16-000344,ZOETIS INC.,1,CF,Net Cash Provided by (Used in) Operating Activities [Abstract],Operating Activities
+41615,0001555280-16-000344,ZOETIS INC.,14,IS,Net Income (Loss) Attributable to Parent,Net income attributable to Zoetis
+41616,0001555280-16-000344,ZOETIS INC.,13,BS,"Other Assets, Noncurrent",Other noncurrent assets
+41617,0001555280-16-000344,ZOETIS INC.,22,CF,"Payments to Acquire Property, Plant, and Equipment","Purchases of property, plant and equipment"
+41618,0001555280-16-000344,ZOETIS INC.,3,BS,"Preferred Stock, Par or Stated Value Per Share","Preferred stock, par value (in dollars per share)"
+41619,0001555280-16-000344,ZOETIS INC.,4,BS,"Preferred Stock, Shares Authorized","Preferred stock, authorized (in shares)"
+41620,0001555280-16-000344,ZOETIS INC.,26,CF,"Proceeds from Sale of Property, Plant, and Equipment",Net proceeds from sales of assets
+41621,0001555280-16-000344,ZOETIS INC.,9,BS,"Property, Plant and Equipment, Net","Property, plant and equipment, less accumulated depreciation of $1,208 in 2015 and $1,145 in 2014"
+41622,0001555280-16-000344,ZOETIS INC.,36,BS,Retained Earnings (Accumulated Deficit),Retained earnings
+41623,0001555280-16-000344,ZOETIS INC.,8,EQ,Retained Earnings [Member],Retained Earnings
+41624,0001555280-16-000344,ZOETIS INC.,11,EQ,Statement [Line Items],Statement [Line Items]
+41625,0001555280-16-000344,ZOETIS INC.,1,EQ,Statement [Table],Statement [Table]
+41626,0001555280-16-000344,ZOETIS INC.,38,BS,Stockholders' Equity Attributable to Parent,Total Zoetis Inc. equity
+41627,0001555280-16-000344,ZOETIS INC.,37,BS,"Accumulated Other Comprehensive Income (Loss), Net of Tax",Accumulated other comprehensive loss
+41628,0001555280-16-000344,ZOETIS INC.,9,EQ,Accumulated Other Comprehensive Income (Loss) [Member],Accumulated Other Comprehensive Loss
+41629,0001555280-16-000344,ZOETIS INC.,10,CI,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",Comprehensive income attributable to Zoetis
+41630,0001555280-16-000344,ZOETIS INC.,9,CI,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",Comprehensive income/(loss) attributable to noncontrolling interests
+41631,0001555280-16-000344,ZOETIS INC.,8,CI,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",Comprehensive income before allocation to noncontrolling interests
+41632,0001555280-16-000344,ZOETIS INC.,10,IS,"Income (Loss) from Continuing Operations before Income Taxes, Extraordinary Items, Noncontrolling Interest",Income before provision for taxes on income
+41633,0001555280-16-000344,ZOETIS INC.,16,CF,Increase (Decrease) in Other Operating Assets,Other assets
+41634,0001555280-16-000344,ZOETIS INC.,18,CF,Increase (Decrease) in Other Operating Liabilities,Other liabilities
+41635,0001555280-16-000344,ZOETIS INC.,13,IS,Net Income (Loss) Attributable to Noncontrolling Interest,Net income/(loss) attributable to noncontrolling interests
+41636,0001555280-16-000344,ZOETIS INC.,10,EQ,Noncontrolling Interest [Member],Equity Attributable to Noncontrolling Interests
+41637,0001555280-16-000344,ZOETIS INC.,12,IS,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",Net income before allocation to noncontrolling interests
+41638,0001555280-16-000344,ZOETIS INC.,1,CI,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",Net income before allocation to noncontrolling interests
+41639,0001555280-16-000344,ZOETIS INC.,14,EQ,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",Net income (loss)
+41640,0001555280-16-000344,ZOETIS INC.,2,CF,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",Net income before allocation to noncontrolling interests
+41641,0001555280-16-000344,ZOETIS INC.,2,EQ,Equity Components [Axis],Equity Components [Axis]
+41642,0001555280-16-000344,ZOETIS INC.,40,BS,"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",Total equity
+41643,0001555280-16-000344,ZOETIS INC.,13,EQ,"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",Beginning balance
+41644,0001555280-16-000344,ZOETIS INC.,28,EQ,"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",Ending balance
+41645,0001555280-16-000344,ZOETIS INC.,5,EQ,Treasury Stock [Member],Treasury Stock
+41646,0001555280-16-000344,ZOETIS INC.,9,BS,"Treasury Stock, Shares",Treasury shares
+41647,0001555280-16-000344,ZOETIS INC.,2,EQ,"Treasury Stock, Shares",Treasury shares
+41648,0001555280-16-000344,ZOETIS INC.,34,BS,"Treasury Stock, Value","Treasury stock, at cost, 4,408,116 and 14,743 shares of common stock at December 31, 2015 and 2014, respectively"
+41649,0001555280-16-000344,ZOETIS INC.,7,CF,Asset Impairment Charges,Asset write-offs and asset impairments
+41650,0001555280-16-000344,ZOETIS INC.,49,CF,Capital Expenditures Incurred but Not yet Paid,"Purchases of property, plant and equipment"
+41651,0001555280-16-000344,ZOETIS INC.,27,BS,"Deferred Tax Liabilities, Net, Noncurrent",Noncurrent deferred tax liabilities
+41652,0001555280-16-000344,ZOETIS INC.,16,IS,"Earnings Per Share, Basic",Basic (in dollars per share)
+41653,0001555280-16-000344,ZOETIS INC.,17,IS,"Earnings Per Share, Diluted",Earnings per common share--diluted
+41654,0001555280-16-000344,ZOETIS INC.,10,BS,Goodwill,Goodwill
+41655,0001555280-16-000344,ZOETIS INC.,45,CF,"Income Taxes Paid, Net",Income taxes
+41656,0001555280-16-000344,ZOETIS INC.,4,BS,"Inventory, Net",Inventories
+41657,0001555280-16-000344,ZOETIS INC.,26,BS,"Long-term Debt, Excluding Current Maturities","Long-term debt, net of discount and issuance costs"
+41658,0001555280-16-000344,ZOETIS INC.,39,BS,Stockholders' Equity Attributable to Noncontrolling Interest,Equity attributable to noncontrolling interests
+41659,0001555280-16-000344,ZOETIS INC.,9,IS,Nonoperating Income (Expense),Other (income)/deductionsnet
+41660,0001555280-16-000344,ZOETIS INC.,24,BS,"Other Liabilities, Current",Other current liabilities
+41661,0001555280-16-000344,ZOETIS INC.,6,EQ,Parent [Member],Business Unit Equity
+41662,0001555280-16-000344,ZOETIS INC.,27,CF,Payments for (Proceeds from) Other Investing Activities,Other investing activities
+41663,0001555280-16-000344,ZOETIS INC.,33,CF,Payments for Repurchase of Common Stock,Purchases of treasury stock
+41664,0001555280-16-000344,ZOETIS INC.,5,CF,Share-based Compensation,Share-based compensation expense
+41665,0001555280-16-000344,ZOETIS INC.,43,CF,Supplemental Cash Flow Information [Abstract],Supplemental cash flow information
+41666,0001555280-16-000344,ZOETIS INC.,18,EQ,"Treasury Stock, Value, Acquired, Cost Method",Cost of Treasury Stock
+41667,0001555280-16-000344,ZOETIS INC.,20,IS,"Weighted Average Number of Shares Outstanding, Diluted",Diluted (in shares)
+41668,0001555280-16-000344,ZOETIS INC.,19,IS,"Weighted Average Number of Shares Outstanding, Basic",Basic (in shares)
+41669,0001555280-16-000344,ZOETIS INC.,17,EQ,"Adjustments to Additional Paid in Capital, Share-based Compensation, Requisite Service Period Recognition",Share-based compensation awards
+41670,0001555280-16-000344,ZOETIS INC.,8,CF,Inventory Write-down,Provision for losses on inventory
+41671,0001555280-16-000344,ZOETIS INC.,4,CI,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax","Foreign currency translation adjustments, net"
+41672,0001555280-16-000344,ZOETIS INC.,7,CI,"Other Comprehensive Income (Loss), Net of Tax","Total other comprehensive loss, net of tax"
+41673,0001555280-16-000344,ZOETIS INC.,15,EQ,"Other Comprehensive Income (Loss), Net of Tax",Other comprehensive income (loss)
+41674,0001555280-16-000344,ZOETIS INC.,2,CI,"Other Comprehensive Income (Loss), Net of Tax [Abstract]","Other comprehensive loss, net of tax and reclassification adjustments:"
+41675,0001555280-16-000344,ZOETIS INC.,3,CI,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Net of Tax","Unrealized loss on derivatives, net"
+41676,0001555280-16-000344,ZOETIS INC.,29,BS,"Other Liabilities, Noncurrent",Other noncurrent liabilities
+41677,0001555280-16-000344,ZOETIS INC.,12,CF,Other Noncash Income (Expense),Other non-cash adjustments
+41678,0001555280-16-000344,ZOETIS INC.,37,CF,Proceeds from (Payments for) Other Financing Activities,Other net financing activities with Pfizer Inc.
+41679,0001555280-16-000344,ZOETIS INC.,21,BS,"Employee-related Liabilities, Current",Accrued compensation and related items
+41680,0001555280-16-000344,ZOETIS INC.,11,BS,"Intangible Assets, Net (Excluding Goodwill)","Identifiable intangible assets, less accumulated amortization"
+41681,0001555280-16-000344,ZOETIS INC.,7,BS,"Other Assets, Current",Other current assets
+41682,0001555280-16-000344,ZOETIS INC.,35,CF,Payments of Ordinary Dividends,Cash dividends paid
+41683,0001555280-16-000344,ZOETIS INC.,1,IS,"Revenue, Net",Revenue
+41684,0001555280-16-000344,ZOETIS INC.,4,IS,"Selling, General and Administrative Expense","Selling, general and administrative expenses"
+41685,0001555280-16-000344,ZOETIS INC.,24,CF,"Payments to Acquire Businesses, Net of Cash Acquired",Acquisition of Abbott Animal Health
+41686,0001555280-16-000344,ZOETIS INC.,47,CF,"Cash Flow, Noncash Investing and Financing Activities Disclosure [Abstract]",Non-cash transactions:
+41687,0001555280-16-000344,ZOETIS INC.,3,IS,Cost of Goods and Services Sold,Cost of Sales
+41688,0001555280-16-000344,ZOETIS INC.,12,BS,"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",Noncurrent deferred tax assets
+41689,0001555280-16-000344,ZOETIS INC.,39,CF,Effect of Exchange Rate on Cash and Cash Equivalents,Effect of exchange-rate changes on cash and cash equivalents
+41690,0001555280-16-000344,ZOETIS INC.,27,EQ,"Dividends, Common Stock",Dividends declared
+41691,0001555280-16-000344,ZOETIS INC.,19,CF,Increase (Decrease) in Accrued Taxes Payable,"Other tax accounts, net"
+41692,0001555280-16-000344,ZOETIS INC.,46,CF,"Interest Paid, Net","Interest, net of capitalized interest"
+41693,0001555280-16-000344,ZOETIS INC.,5,CI,"Other Comprehensive Income (Loss), Pension and Other Postretirement Benefit Plans, Net Unamortized Gain (Loss) Arising During Period, Net of Tax","Benefit plans: Actuarial gains/(losses), net"
+41694,0001555280-16-000344,ZOETIS INC.,22,BS,"Taxes Payable, Current",Income taxes payable
+41695,0001555280-16-000344,ZOETIS INC.,21,IS,"Common Stock, Dividends, Per Share, Cash Paid",Dividends declared per common share
+41696,0001555280-16-000344,ZOETIS INC.,16,BS,"Debt, Current",Short-term borrowings
+41697,0001555280-16-000344,ZOETIS INC.,5,BS,"Deferred Tax Assets, Net of Valuation Allowance, Current",Current deferred tax assets
+41698,0001555280-16-000344,ZOETIS INC.,16,EQ,"Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent","Other Comprehensive Income (Loss), Net of Tax, Portion Attributable to Parent"
+41699,0001555280-16-000344,ZOETIS INC.,19,EQ,"Stock Issued During Period, Value, Employee Benefit Plan",Defined contribution plan transactions
+41700,0001555280-16-000344,ZOETIS INC.,30,CF,Proceeds from (Repayments of) Short-term Debt,"(Decrease)/increase in short-term borrowings, net"
+41701,0001555280-16-000344,ZOETIS INC.,23,CF,Payments to Acquire Intangible Assets,Milestone payment related to previously acquired intangibles
+41702,0001555280-16-000344,ZOETIS INC.,28,BS,"Accrued Income Taxes, Noncurrent",Other taxes payable
+41703,0001555280-16-000344,ZOETIS INC.,51,CF,"Dividends Payable, Current",Dividends payable
+41704,0001555280-16-000344,ZOETIS INC.,19,BS,"Dividends Payable, Current",Dividends payable
+41705,0001555280-16-000344,ZOETIS INC.,31,CF,Proceeds from Issuance of Senior Long-term Debt,"Proceeds from issuance of long-term debtsenior notes, net of discount and fees"
+41706,0001555280-16-000344,ZOETIS INC.,5,IS,Research and Development Expense (Excluding Acquired in Process Cost),Research and development expenses
+41707,0001555280-16-000344,ZOETIS INC.,50,CF,"Other Significant Noncash Transaction, Value of Consideration Given",Contingent purchase price consideration
+41708,0001555280-16-000344,ZOETIS INC.,32,BS,"Preferred Stock, Value, Outstanding","Preferred stock, $0.01 par value; 1,000,000,000 authorized, none issued"
+41709,0001555280-16-000344,ZOETIS INC.,15,CP,Entity Public Float,Entity Public Float
+41710,0001555280-16-000344,ZOETIS INC.,36,CF,Repayments of Assumed Debt,Cash paid to settle Pharmaq debt
+41711,0001555280-16-000344,ZOETIS INC.,4,CP,Document Fiscal Year Focus,Document Fiscal Year Focus
+41712,0001555280-16-000344,ZOETIS INC.,3,CP,Document Period End Date,Document Period End Date
+41713,0001555280-16-000344,ZOETIS INC.,9,CP,Current Fiscal Year End Date,Current Fiscal Year End Date
+41714,0001555280-16-000344,ZOETIS INC.,17,BS,"Other Long-term Debt, Current",Current portion of long-term debt
+41715,0001555280-16-000344,ZOETIS INC.,32,CF,Proceeds and Excess Tax Benefit from Share-based Compensation,Stock-based compensation-related proceeds and excess tax benefits
+41716,0001555280-16-000344,ZOETIS INC.,18,IS,Weighted Average Number of Shares Outstanding Reconciliation [Abstract],Weighted-average common shares outstanding:
+41717,0001555280-16-000344,ZOETIS INC.,2,CP,Amendment Flag,Amendment Flag
+41718,0001555280-16-000344,ZOETIS INC.,5,CP,Document Fiscal Period Focus,Document Fiscal Period Focus
+41719,0001555280-16-000344,ZOETIS INC.,1,CP,Document Type,Document Type
+41720,0001555280-16-000344,ZOETIS INC.,8,CP,Entity Central Index Key,Entity Central Index Key
+41721,0001555280-16-000344,ZOETIS INC.,11,CP,"Entity Common Stock, Shares Outstanding","Entity Common Stock, Shares Outstanding"
+41722,0001555280-16-000344,ZOETIS INC.,14,CP,Entity Current Reporting Status,Entity Current Reporting Status
+41723,0001555280-16-000344,ZOETIS INC.,10,CP,Entity Filer Category,Entity Filer Category
+41724,0001555280-16-000344,ZOETIS INC.,7,CP,Entity Registrant Name,Entity Registrant Name
+41725,0001555280-16-000344,ZOETIS INC.,13,CP,Entity Voluntary Filers,Entity Voluntary Filers
+41726,0001555280-16-000344,ZOETIS INC.,12,CP,Entity Well-known Seasoned Issuer,Entity Well-known Seasoned Issuer
+41727,0001555280-16-000344,ZOETIS INC.,48,CF,"Noncash or Part Noncash Acquisition, Intangible Assets Acquired",Intangible asset acquisition
+41728,0001555280-16-000344,ZOETIS INC.,25,CF,"Payments to Acquire Business Two, Net of Cash Acquired","Acquisition of Pharmaq, net of cash acquired"
+41729,0001555280-16-000344,ZOETIS INC.,6,CP,Trading Symbol,Trading Symbol
+41730,0001555280-16-000344,ZOETIS INC.,25,EQ,"Adjustments to Additional Paid in Capital, Consideration Paid to Related Party",Consideration paid to Pfizer Inc. in connection with the Separation
+41731,0001555280-16-000344,ZOETIS INC.,6,IS,Amortization Of Intangible Assets Not Associated With Single Function,Amortization of intangible assets
+41732,0001555280-16-000344,ZOETIS INC.,6,BS,"Assets Held-for-sale, Not Part of Disposal Group, Current",Assets held for sale
+41733,0001555280-16-000344,ZOETIS INC.,21,EQ,"Business Separation, Adjustments",Separation adjustments
+41734,0001555280-16-000344,ZOETIS INC.,44,CF,Cash Paid During Period For [Abstract],Cash paid during the period for:
+41735,0001555280-16-000344,ZOETIS INC.,23,EQ,"Contributed Capital, Associated with Pension, Contributed by Related Party",Employee benefit plan contribution from Pfizer Inc.
+41736,0001555280-16-000344,ZOETIS INC.,52,CF,Debt Issued to Related Party for Net Asset Transfers,Zoetis Inc. senior notes transferred to Pfizer Inc. in connection with the Separation
+41737,0001555280-16-000344,ZOETIS INC.,22,EQ,DefinedPensionPlanTransfer,Pension plan transfer from Pfizer Inc.
+41738,0001555280-16-000344,ZOETIS INC.,10,CF,Foreign Currency Transaction Gain Loss Realized Excluding Cash,"Foreign currency loss related to Venezuela Revaluation, excluding impact on cash"
+41739,0001555280-16-000344,ZOETIS INC.,11,CF,Non Cash Transfers to Related Party,Employee benefit plan contribution from Pfizer Inc.
+41740,0001555280-16-000344,ZOETIS INC.,13,CF,"Other changes in assets and liabilities, net of acquisitions and divestitures and transfers with Pfizer Inc. [Abstract]","Other changes in assets and liabilities, net of acquisitions and divestitures and transfers with Pfizer Inc."
+41741,0001555280-16-000344,ZOETIS INC.,6,CI,OtherComprehensiveIncomePensionPlanSettlementCharge,"Plan settlement, net"
+41742,0001555280-16-000344,ZOETIS INC.,34,CF,Payment to Related Party in Connection with Asset Transfer,Consideration paid to Pfizer Inc. in connection with the Separation
+41743,0001555280-16-000344,ZOETIS INC.,24,EQ,Reclassification of Net Liability Due to Related Party,Reclassification of net liability due to Pfizer Inc
+41744,0001555280-16-000344,ZOETIS INC.,6,CF,Restructuring and Other Related Costs Net of Payments,"Restructuring, net of payments"
+41745,0001555280-16-000344,ZOETIS INC.,7,IS,Restructuring Charges And Acquisition Related Costs,Restructuring charges and certain acquisition-related costs
+41746,0001555280-16-000344,ZOETIS INC.,20,EQ,"Stockholders' Equity, Net Transfers Between Related Party and Noncontrolling Interests",Net transfersPfizer Inc.
+41747,0001555280-16-000344,ZOETIS INC.,26,EQ,"Stock Issued During Period, Value, New Issues, And Reclassification of Unit Equity",Issuance of common stock to Pfizer Inc. in connection with the Separation and reclassification of Business Unit Equity

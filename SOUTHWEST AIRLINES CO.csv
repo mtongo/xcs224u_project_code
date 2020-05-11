@@ -1,0 +1,170 @@
+,adsh,name,line,stmt,tlabel,plabel
+442643,0000092380-16-000175,SOUTHWEST AIRLINES CO,22,BS,"Accounts Payable, Current",Accounts payable
+442644,0000092380-16-000175,SOUTHWEST AIRLINES CO,23,BS,"Accrued Liabilities, Current",Accrued liabilities
+442645,0000092380-16-000175,SOUTHWEST AIRLINES CO,15,BS,"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",Less allowance for depreciation and amortization
+442646,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,CF,Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract],Adjustments to reconcile net income to cash provided by operating activities:
+442647,0000092380-16-000175,SOUTHWEST AIRLINES CO,19,BS,Assets,Total assets
+442648,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,BS,Assets [Abstract],ASSETS
+442649,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,BS,"Assets, Current",Total current assets
+442650,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,BS,"Assets, Current [Abstract]",Current assets:
+442651,0000092380-16-000175,SOUTHWEST AIRLINES CO,34,CF,"Cash and Cash Equivalents, at Carrying Value",CASH AND CASH EQUIVALENTS AT BEGINNING OF PERIOD
+442652,0000092380-16-000175,SOUTHWEST AIRLINES CO,35,CF,"Cash and Cash Equivalents, at Carrying Value",CASH AND CASH EQUIVALENTS AT END OF PERIOD
+442653,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,BS,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents
+442654,0000092380-16-000175,SOUTHWEST AIRLINES CO,33,CF,"Cash and Cash Equivalents, Period Increase (Decrease)",NET CHANGE IN CASH AND CASH EQUIVALENTS
+442655,0000092380-16-000175,SOUTHWEST AIRLINES CO,29,IS,"Common Stock, Dividends, Per Share, Declared",Cash dividends declared per common share (in dollars per share)
+442656,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,BS,"Common Stock, Par or Stated Value Per Share","Common stock, par value (in dollars per share)"
+442657,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,BS,"Common Stock, Shares Authorized","Common stock, shares authorized (in shares)"
+442658,0000092380-16-000175,SOUTHWEST AIRLINES CO,32,BS,"Common Stock, Value, Issued","Common stock, $1.00 par value: 2,000,000,000 shares authorized; 807,611,634 shares issued in 2015 and 2014"
+442659,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,IS,Costs and Expenses [Abstract],OPERATING EXPENSES:
+442660,0000092380-16-000175,SOUTHWEST AIRLINES CO,13,IS,"Depreciation, Depletion and Amortization, Nonproduction",Depreciation and amortization
+442661,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,CF,"Depreciation, Depletion and Amortization, Nonproduction",Depreciation and amortization
+442662,0000092380-16-000175,SOUTHWEST AIRLINES CO,24,IS,"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",INCOME BEFORE INCOME TAXES
+442663,0000092380-16-000175,SOUTHWEST AIRLINES CO,25,IS,Income Tax Expense (Benefit),PROVISION FOR INCOME TAXES
+442664,0000092380-16-000175,SOUTHWEST AIRLINES CO,21,IS,"Investment Income, Interest",Interest income
+442665,0000092380-16-000175,SOUTHWEST AIRLINES CO,38,BS,Liabilities and Equity,Total liabilities and stockholders' equity
+442666,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,BS,Liabilities and Equity [Abstract],LIABILITIES AND STOCKHOLDERS' EQUITY
+442667,0000092380-16-000175,SOUTHWEST AIRLINES CO,20,BS,Liabilities and Equity [Abstract],LIABILITIES AND STOCKHOLDERS' EQUITY
+442668,0000092380-16-000175,SOUTHWEST AIRLINES CO,26,BS,"Liabilities, Current",Total current liabilities
+442669,0000092380-16-000175,SOUTHWEST AIRLINES CO,21,BS,"Liabilities, Current [Abstract]",Current liabilities:
+442670,0000092380-16-000175,SOUTHWEST AIRLINES CO,26,IS,Net Income (Loss) Attributable to Parent,NET INCOME
+442671,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,CF,Net Income (Loss) Attributable to Parent,Net income
+442672,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,CI,Net Income (Loss) Attributable to Parent,Net income
+442673,0000092380-16-000175,SOUTHWEST AIRLINES CO,18,IS,Nonoperating Income (Expense) [Abstract],OTHER EXPENSES (INCOME):
+442674,0000092380-16-000175,SOUTHWEST AIRLINES CO,17,IS,Operating Income (Loss),OPERATING INCOME
+442675,0000092380-16-000175,SOUTHWEST AIRLINES CO,18,BS,"Other Assets, Noncurrent",Other assets
+442676,0000092380-16-000175,SOUTHWEST AIRLINES CO,13,CF,"Other Operating Activities, Cash Flow Statement","Other, net"
+442677,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,BS,"Prepaid Expense and Other Assets, Current",Prepaid expenses and other current assets
+442678,0000092380-16-000175,SOUTHWEST AIRLINES CO,14,BS,"Property, Plant and Equipment, Gross","Property and equipment, at cost"
+442679,0000092380-16-000175,SOUTHWEST AIRLINES CO,16,BS,"Property, Plant and Equipment, Net","Property and equipment, net"
+442680,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,BS,"Property, Plant and Equipment, Net [Abstract]","Property and equipment, at cost:"
+442681,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,BS,"Property, Plant and Equipment, Other, Gross",Ground property and equipment
+442682,0000092380-16-000175,SOUTHWEST AIRLINES CO,34,BS,Retained Earnings (Accumulated Deficit),Retained earnings
+442683,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,IS,Revenues,Total operating revenues
+442684,0000092380-16-000175,SOUTHWEST AIRLINES CO,37,BS,Stockholders' Equity Attributable to Parent,Total stockholders' equity
+442685,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,EQ,Stockholders' Equity Attributable to Parent,Balance at beginning of period
+442686,0000092380-16-000175,SOUTHWEST AIRLINES CO,19,EQ,Stockholders' Equity Attributable to Parent,Balance at end of period
+442687,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,BS,Stockholders' Equity Attributable to Parent [Abstract],Stockholders' equity:
+442688,0000092380-16-000175,SOUTHWEST AIRLINES CO,31,BS,Stockholders' Equity Attributable to Parent [Abstract],Stockholders' equity:
+442689,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,CF,Unrealized Gain (Loss) on Derivatives and Commodity Contracts,Unrealized (gain) loss on fuel derivative instruments
+442690,0000092380-16-000175,SOUTHWEST AIRLINES CO,35,BS,"Accumulated Other Comprehensive Income (Loss), Net of Tax","Accumulated Other Comprehensive Income (Loss), Net of Tax"
+442691,0000092380-16-000175,SOUTHWEST AIRLINES CO,33,BS,"Additional Paid in Capital, Common Stock",Capital in excess of par value
+442692,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,BS,"Common Stock, Shares, Issued","Common stock, shares issued (in shares)"
+442693,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,CI,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",COMPREHENSIVE INCOME
+442694,0000092380-16-000175,SOUTHWEST AIRLINES CO,18,EQ,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",Comprehensive income
+442695,0000092380-16-000175,SOUTHWEST AIRLINES CO,27,IS,"Earnings Per Share, Basic","NET INCOME PER SHARE, BASIC (in dollars per share)"
+442696,0000092380-16-000175,SOUTHWEST AIRLINES CO,28,IS,"Earnings Per Share, Diluted","NET INCOME PER SHARE, DILUTED (in dollars per share)"
+442697,0000092380-16-000175,SOUTHWEST AIRLINES CO,17,BS,Goodwill,Goodwill
+442698,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,CF,Increase (Decrease) in Accounts Payable and Accrued Liabilities,Accounts payable and accrued liabilities
+442699,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,CF,Increase (Decrease) in Operating Capital [Abstract],Changes in certain assets and liabilities:
+442700,0000092380-16-000175,SOUTHWEST AIRLINES CO,27,BS,Long-term Debt and Capital Lease Obligations,Long-term debt less current maturities
+442701,0000092380-16-000175,SOUTHWEST AIRLINES CO,25,BS,"Long-term Debt and Capital Lease Obligations, Current",Current maturities of long-term debt
+442702,0000092380-16-000175,SOUTHWEST AIRLINES CO,32,CF,Net Cash Provided by (Used in) Financing Activities,Net cash used in financing activities
+442703,0000092380-16-000175,SOUTHWEST AIRLINES CO,22,CF,Net Cash Provided by (Used in) Financing Activities [Abstract],Net cash used in financing activities
+442704,0000092380-16-000175,SOUTHWEST AIRLINES CO,21,CF,Net Cash Provided by (Used in) Investing Activities,Net cash used in investing activities
+442705,0000092380-16-000175,SOUTHWEST AIRLINES CO,15,CF,Net Cash Provided by (Used in) Investing Activities [Abstract],Net cash used in investing activities
+442706,0000092380-16-000175,SOUTHWEST AIRLINES CO,14,CF,Net Cash Provided by (Used in) Operating Activities,Net cash provided by operating activities
+442707,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,CF,Net Cash Provided by (Used in) Operating Activities [Abstract],CASH FLOWS FROM OPERATING ACTIVITIES:
+442708,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,CI,"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax","Other, net of deferred taxes of $-, $-, and $7"
+442709,0000092380-16-000175,SOUTHWEST AIRLINES CO,30,BS,"Other Liabilities, Noncurrent",Other noncurrent liabilities
+442710,0000092380-16-000175,SOUTHWEST AIRLINES CO,22,IS,Other Nonoperating Income (Expense),"Other (gains) losses, net"
+442711,0000092380-16-000175,SOUTHWEST AIRLINES CO,31,CF,Proceeds from (Payments for) Other Financing Activities,"Other, net"
+442712,0000092380-16-000175,SOUTHWEST AIRLINES CO,27,CF,"Repayments of Long-term Debt, Long-term Capital Lease Obligations, and Capital Securities",Payments of long-term debt and capital lease obligations
+442713,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,EQ,Statement [Line Items],Statement [Line Items]
+442714,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,CI,Statement [Line Items],Statement [Line Items]
+442715,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,CI,Statement [Line Items],Statement [Line Items]
+442716,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,CI,Statement [Table],Statement [Table]
+442717,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,CI,Statement [Table],Statement [Table]
+442718,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,EQ,Statement [Table],Statement of Stockholder's Equity [Table]
+442719,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,BS,"Treasury Stock, Shares","Treasury stock, at cost: shares (in shares)"
+442720,0000092380-16-000175,SOUTHWEST AIRLINES CO,36,BS,"Treasury Stock, Value","Treasury stock, at cost: 160,010,017 and 132,017,550 shares in 2015 and 2014 respectively"
+442721,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,EQ,Additional Paid-in Capital [Member],Capital in excess of par value
+442722,0000092380-16-000175,SOUTHWEST AIRLINES CO,14,EQ,"Adjustments to Additional Paid in Capital, Income Tax Benefit from Share-based Compensation",Net tax benefit (expense) of options exercised
+442723,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,EQ,Common Stock [Member],Common Stock
+442724,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,EQ,Equity Component [Domain],Equity Component [Domain]
+442725,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,CF,Increase (Decrease) in Accounts and Other Receivables,Accounts and other receivables
+442726,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,EQ,Increase (Decrease) in Stockholders' Equity [Roll Forward],Increase (Decrease) in Stockholders' Equity [Roll Forward]
+442727,0000092380-16-000175,SOUTHWEST AIRLINES CO,23,IS,Nonoperating Income (Expense),Total other expenses (income)
+442728,0000092380-16-000175,SOUTHWEST AIRLINES CO,16,IS,Operating Expenses,Total operating expenses
+442729,0000092380-16-000175,SOUTHWEST AIRLINES CO,15,IS,"Other Cost and Expense, Operating",Other operating expenses
+442730,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,IS,"Other Revenue, Net",Other
+442731,0000092380-16-000175,SOUTHWEST AIRLINES CO,20,CF,Payments for (Proceeds from) Other Investing Activities,"Other, net"
+442732,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,EQ,Retained Earnings [Member],Retained earnings
+442733,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,EQ,Equity Components [Axis],Equity Components [Axis]
+442734,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,EQ,Treasury Stock [Member],Treasury stock
+442735,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,EQ,"Treasury Stock, Value, Acquired, Cost Method",Repurchase of common stock
+442736,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,EQ,AOCI Attributable to Parent [Member],Accumulated other comprehensive income (loss)
+442737,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,CF,Increase (Decrease) in Other Operating Assets,Other assets
+442738,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,CI,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax","Unrealized gain (loss) on derivatives, net of tax"
+442739,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,CI,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Tax","Deferred taxes on unrealized gain (loss) on derivatives, tax effect"
+442740,0000092380-16-000175,SOUTHWEST AIRLINES CO,28,CF,"Payments of Ordinary Dividends, Common Stock",Payments of cash dividends
+442741,0000092380-16-000175,SOUTHWEST AIRLINES CO,18,CF,Payments to Acquire Short-term Investments,Purchases of short-term investments
+442742,0000092380-16-000175,SOUTHWEST AIRLINES CO,13,EQ,"Stock Issued During Period, Value, Employee Stock Purchase Plan",Issuance of common and treasury stock pursuant to Employee stock plans
+442743,0000092380-16-000175,SOUTHWEST AIRLINES CO,40,CF,Capital Lease Obligations Incurred,Flight equipment under capital leases
+442744,0000092380-16-000175,SOUTHWEST AIRLINES CO,28,BS,"Deferred Tax Liabilities, Net, Noncurrent",Deferred income taxes
+442745,0000092380-16-000175,SOUTHWEST AIRLINES CO,37,CF,"Interest Paid, Net",Interest
+442746,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,CI,"Other Comprehensive Income (Loss), Net of Tax",OTHER COMPREHENSIVE INCOME (LOSS)
+442747,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,CI,"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Adjustment, Net of Tax","Unrealized gain (loss) on defined benefit plan items, net of deferred taxes of ($7), ($8), and $15"
+442748,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,CI,"Other Comprehensive (Income) Loss, Pension and Other Postretirement Benefit Plans, Tax",Deferred taxes on postretirement
+442749,0000092380-16-000175,SOUTHWEST AIRLINES CO,17,CF,Payments for Construction in Process,Assets constructed for others
+442750,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,BS,Short-term Investments,Short-term investments
+442751,0000092380-16-000175,SOUTHWEST AIRLINES CO,36,CF,Supplemental Cash Flow Information [Abstract],CASH PAYMENTS FOR:
+442752,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,EQ,"Common Stock, Dividends, Per Share, Cash Paid","Cash dividends, per share (in dollars per share)"
+442753,0000092380-16-000175,SOUTHWEST AIRLINES CO,30,CF,Payments for Repurchase of Common Stock,Repurchase of common stock
+442754,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,IS,Aircraft Rental,Aircraft rentals
+442755,0000092380-16-000175,SOUTHWEST AIRLINES CO,17,EQ,"Dividends, Cash",Cash dividends
+442756,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,IS,Labor and Related Expense,"Salaries, wages, and benefits"
+442757,0000092380-16-000175,SOUTHWEST AIRLINES CO,23,CF,Proceeds from Issuance of Debt,Proceeds from issuance of long-term debt
+442758,0000092380-16-000175,SOUTHWEST AIRLINES CO,24,CF,Proceeds from Stock Plans,Proceeds from Employee stock plans
+442759,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,IS,"Revenue, Net [Abstract]",OPERATING REVENUES:
+442760,0000092380-16-000175,SOUTHWEST AIRLINES CO,16,EQ,"Stock Issued During Period, Value, Share-based Compensation, Net of Forfeitures",Share-based compensation
+442761,0000092380-16-000175,SOUTHWEST AIRLINES CO,38,CF,Income Taxes Paid,Income taxes
+442762,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,CF,Increase (Decrease) in Deferred Income Taxes,Deferred income taxes
+442763,0000092380-16-000175,SOUTHWEST AIRLINES CO,20,IS,Interest Costs Capitalized Adjustment,Interest Costs Capitalized Adjustment
+442764,0000092380-16-000175,SOUTHWEST AIRLINES CO,19,IS,"Interest Expense, Debt",Interest expense
+442765,0000092380-16-000175,SOUTHWEST AIRLINES CO,16,CF,Payments to Acquire Productive Assets,Capital expenditures
+442766,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,BS,"Accounts and Other Receivables, Net, Current",Accounts and other receivables
+442767,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,IS,Fuel Costs,Fuel and oil
+442768,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,CI,"Other Comprehensive Income (Loss), Tax, Portion Attributable to Parent","Deferred taxes on unrealized gain (loss), other, tax effect"
+442769,0000092380-16-000175,SOUTHWEST AIRLINES CO,14,CP,Entity Public Float,Entity Public Float
+442770,0000092380-16-000175,SOUTHWEST AIRLINES CO,7,CP,Document Fiscal Year Focus,Document Fiscal Year Focus
+442771,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,CP,Document Period End Date,Document Period End Date
+442772,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,CP,Current Fiscal Year End Date,Current Fiscal Year End Date
+442773,0000092380-16-000175,SOUTHWEST AIRLINES CO,39,CF,Supplemental Cash Flow Elements [Abstract],SUPPLEMENTAL DISCLOSURE OF NONCASH TRANSACTIONS:
+442774,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,IS,"Aircraft Maintenance, Materials, and Repairs",Maintenance materials and repairs
+442775,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,IS,Cargo and Freight Revenue,Freight
+442776,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,IS,Landing Fees and Other Rentals,Landing fees and other rentals
+442777,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,IS,Passenger Revenue,Passenger
+442778,0000092380-16-000175,SOUTHWEST AIRLINES CO,14,IS,"Business Combination, Integration Related Costs",Acquisition and integration
+442779,0000092380-16-000175,SOUTHWEST AIRLINES CO,15,EQ,"Adjustments to Additional Paid in Capital, Income Tax Deficiency from Share-based Compensation","Adjustments to Additional Paid in Capital, Income Tax Deficiency from Share-based Compensation"
+442780,0000092380-16-000175,SOUTHWEST AIRLINES CO,6,BS,"Airline Related Inventory, Gross","Inventories of parts and supplies, at cost"
+442781,0000092380-16-000175,SOUTHWEST AIRLINES CO,9,CP,Amendment Flag,Amendment Flag
+442782,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,CI,Commodity Contract [Member],Fuel derivatives
+442783,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,CI,Commodity Contract [Member],Fuel derivatives
+442784,0000092380-16-000175,SOUTHWEST AIRLINES CO,24,BS,"Deferred Air Traffic Revenue, Current",Air traffic liability
+442785,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,BS,Deposits on Flight Equipment,Deposits on flight equipment purchase contracts
+442786,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,CI,Derivative Contract [Domain],Derivative Contract [Domain]
+442787,0000092380-16-000175,SOUTHWEST AIRLINES CO,3,CI,Derivative Contract [Domain],Derivative Contract [Domain]
+442788,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,CI,Derivative Instrument [Axis],Derivative Instrument [Axis]
+442789,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,CI,Derivative Instrument [Axis],Derivative Instrument [Axis]
+442790,0000092380-16-000175,SOUTHWEST AIRLINES CO,8,CP,Document Fiscal Period Focus,Document Fiscal Period Focus
+442791,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,CP,Document Type,Document Type
+442792,0000092380-16-000175,SOUTHWEST AIRLINES CO,2,CP,Entity Central Index Key,Entity Central Index Key
+442793,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,CP,"Entity Common Stock, Shares Outstanding","Entity Common Stock, Shares Outstanding"
+442794,0000092380-16-000175,SOUTHWEST AIRLINES CO,13,CP,Entity Current Reporting Status,Entity Current Reporting Status
+442795,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,CP,Entity Filer Category,Entity Filer Category
+442796,0000092380-16-000175,SOUTHWEST AIRLINES CO,1,CP,Entity Registrant Name,Entity Registrant Name
+442797,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,CP,Entity Voluntary Filers,Entity Voluntary Filers
+442798,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,CP,Entity Well-known Seasoned Issuer,Entity Well-known Seasoned Issuer
+442799,0000092380-16-000175,SOUTHWEST AIRLINES CO,10,BS,"Flight Equipment, Gross",Flight equipment
+442800,0000092380-16-000175,SOUTHWEST AIRLINES CO,12,CF,Increase (Decrease) Cash Collateral from Counterparties,Cash collateral received from (provided to) derivative counterparties
+442801,0000092380-16-000175,SOUTHWEST AIRLINES CO,11,CF,Increase (Decrease) in Deferred Air Traffic Revenue,Air traffic liability
+442802,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,CI,Interest Rate Swap [Member],Interest rate derivatives
+442803,0000092380-16-000175,SOUTHWEST AIRLINES CO,5,CI,Interest Rate Swap [Member],Interest rate derivatives
+442804,0000092380-16-000175,SOUTHWEST AIRLINES CO,4,IS,"New Accounting Pronouncement or Change in Accounting Principle, Effect of Adoption, Quantification",Special revenue adjustment
+442805,0000092380-16-000175,SOUTHWEST AIRLINES CO,13,BS,AssetsConstructedForOthers,Assets constructed for others
+442806,0000092380-16-000175,SOUTHWEST AIRLINES CO,41,CF,Assets Constructed for Others During Period,Assets constructed for others
+442807,0000092380-16-000175,SOUTHWEST AIRLINES CO,29,BS,"Construction Obligation, Noncurrent",Construction obligation
+442808,0000092380-16-000175,SOUTHWEST AIRLINES CO,19,CF,ProceedsFromSaleOfShortTermAndOtherInvestments,Proceeds from sales of short-term and other investments
+442809,0000092380-16-000175,SOUTHWEST AIRLINES CO,26,CF,Proceeds from termination of interest rate derivatives,Proceeds from termination of interest rate derivative instrument
+442810,0000092380-16-000175,SOUTHWEST AIRLINES CO,25,CF,Reimbursement for airport construction,Reimbursement for assets constructed for others
+442811,0000092380-16-000175,SOUTHWEST AIRLINES CO,29,CF,Repayments Of Construction Obligation,Repayment of construction obligation

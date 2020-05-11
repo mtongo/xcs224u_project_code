@@ -1,0 +1,239 @@
+,adsh,name,line,stmt,tlabel,plabel
+245518,0001652044-16-000012,ALPHABET INC.,25,BS,"Accounts Payable, Current",Accounts payable
+245519,0001652044-16-000012,ALPHABET INC.,11,BS,"Accounts Receivable, Net, Current","Accounts receivable, net of allowance of $225 and $296"
+245520,0001652044-16-000012,ALPHABET INC.,28,BS,"Accrued Liabilities, Current",Accrued expenses and other current liabilities
+245521,0001652044-16-000012,ALPHABET INC.,15,CF,Adjustments to Reconcile Net Income (Loss) to Cash Provided by (Used in) Operating Activities [Abstract],Adjustments:
+245522,0001652044-16-000012,ALPHABET INC.,12,BS,"Allowance for Doubtful Accounts Receivable, Current","Accounts receivable, allowance"
+245523,0001652044-16-000012,ALPHABET INC.,22,BS,Assets,Total assets
+245524,0001652044-16-000012,ALPHABET INC.,6,BS,Assets [Abstract],Assets
+245525,0001652044-16-000012,ALPHABET INC.,15,BS,"Assets, Current",Total current assets
+245526,0001652044-16-000012,ALPHABET INC.,7,BS,"Assets, Current [Abstract]",Current assets:
+245527,0001652044-16-000012,ALPHABET INC.,54,CF,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents at beginning of period
+245528,0001652044-16-000012,ALPHABET INC.,55,CF,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents at end of period
+245529,0001652044-16-000012,ALPHABET INC.,8,BS,"Cash and Cash Equivalents, at Carrying Value",Cash and cash equivalents
+245530,0001652044-16-000012,ALPHABET INC.,53,CF,"Cash and Cash Equivalents, Period Increase (Decrease)",Net increase (decrease) in cash and cash equivalents
+245531,0001652044-16-000012,ALPHABET INC.,39,BS,Commitments and Contingencies,Commitments and contingencies
+245532,0001652044-16-000012,ALPHABET INC.,17,BS,"Common Stock, Par or Stated Value Per Share","Common stock, par value (in dollars per share)"
+245533,0001652044-16-000012,ALPHABET INC.,18,BS,"Common Stock, Shares Authorized","Common stock and capital stock, shares authorized (in shares)"
+245534,0001652044-16-000012,ALPHABET INC.,21,BS,"Common Stock, Shares, Outstanding","Common stock, shares outstanding (in shares)"
+245535,0001652044-16-000012,ALPHABET INC.,19,BS,"Common Stock, Value, Issued","Common stock, par value (in USD per share)"
+245536,0001652044-16-000012,ALPHABET INC.,16,IS,Costs and Expenses,Total costs and expenses
+245537,0001652044-16-000012,ALPHABET INC.,11,IS,Costs and Expenses [Abstract],Costs and expenses:
+245538,0001652044-16-000012,ALPHABET INC.,15,IS,General and Administrative Expense,General and administrative
+245539,0001652044-16-000012,ALPHABET INC.,19,IS,"Income (Loss) from Continuing Operations before Equity Method Investments, Income Taxes, Extraordinary Items, Noncontrolling Interest",Income from continuing operations before income taxes
+245540,0001652044-16-000012,ALPHABET INC.,13,BS,"Income Taxes Receivable, Current","Income taxes receivable, net"
+245541,0001652044-16-000012,ALPHABET INC.,20,IS,Income Tax Expense (Benefit),Provision for income taxes
+245542,0001652044-16-000012,ALPHABET INC.,28,CF,Increase (Decrease) in Accounts Payable,Accounts payable
+245543,0001652044-16-000012,ALPHABET INC.,25,CF,Increase (Decrease) in Accounts Receivable,Accounts receivable
+245544,0001652044-16-000012,ALPHABET INC.,29,CF,Increase (Decrease) in Accrued Liabilities,Accrued expenses and other liabilities
+245545,0001652044-16-000012,ALPHABET INC.,46,BS,Liabilities and Equity,Total liabilities and stockholders equity
+245546,0001652044-16-000012,ALPHABET INC.,23,BS,Liabilities and Equity [Abstract],Liabilities and Stockholders Equity
+245547,0001652044-16-000012,ALPHABET INC.,33,BS,"Liabilities, Current",Total current liabilities
+245548,0001652044-16-000012,ALPHABET INC.,24,BS,"Liabilities, Current [Abstract]",Current liabilities:
+245549,0001652044-16-000012,ALPHABET INC.,6,CI,Net Income (Loss) Attributable to Parent,Net income
+245550,0001652044-16-000012,ALPHABET INC.,14,CF,Net Income (Loss) Attributable to Parent,Net income
+245551,0001652044-16-000012,ALPHABET INC.,23,IS,Net Income (Loss) Attributable to Parent,Net income
+245552,0001652044-16-000012,ALPHABET INC.,27,EQ,Net Income (Loss) Attributable to Parent,Net income
+245553,0001652044-16-000012,ALPHABET INC.,17,IS,Operating Income (Loss),Income from operations
+245554,0001652044-16-000012,ALPHABET INC.,46,CF,Payments of Dividends,Adjustment Payment to Class C capital stockholders
+245555,0001652044-16-000012,ALPHABET INC.,34,CF,"Payments to Acquire Property, Plant, and Equipment",Purchases of property and equipment
+245556,0001652044-16-000012,ALPHABET INC.,13,BS,"Preferred Stock, Par or Stated Value Per Share","Convertible preferred stock, par value per share (in dollars per share)"
+245557,0001652044-16-000012,ALPHABET INC.,14,BS,"Preferred Stock, Shares Authorized","Convertible preferred stock, shares authorized (in shares)"
+245558,0001652044-16-000012,ALPHABET INC.,16,BS,"Preferred Stock, Shares Outstanding","Convertible preferred stock, shares outstanding (in shares)"
+245559,0001652044-16-000012,ALPHABET INC.,19,BS,"Property, Plant and Equipment, Net","Property and equipment, net"
+245560,0001652044-16-000012,ALPHABET INC.,44,BS,Retained Earnings (Accumulated Deficit),Retained earnings
+245561,0001652044-16-000012,ALPHABET INC.,10,IS,Revenues,Revenues
+245562,0001652044-16-000012,ALPHABET INC.,16,EQ,Stockholders' Equity Attributable to Parent,Beginning Balance
+245563,0001652044-16-000012,ALPHABET INC.,29,EQ,Stockholders' Equity Attributable to Parent,Ending Balance
+245564,0001652044-16-000012,ALPHABET INC.,45,BS,Stockholders' Equity Attributable to Parent,Total stockholders equity
+245565,0001652044-16-000012,ALPHABET INC.,40,BS,Stockholders' Equity Attributable to Parent [Abstract],Stockholders equity:
+245566,0001652044-16-000012,ALPHABET INC.,43,BS,"Accumulated Other Comprehensive Income (Loss), Net of Tax",Accumulated other comprehensive income (loss)
+245567,0001652044-16-000012,ALPHABET INC.,20,BS,"Common Stock, Shares, Issued","Common stock, shares issued (in shares)"
+245568,0001652044-16-000012,ALPHABET INC.,18,CI,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",Comprehensive income
+245569,0001652044-16-000012,ALPHABET INC.,31,BS,"Deferred Revenue, Current",Deferred revenue
+245570,0001652044-16-000012,ALPHABET INC.,29,IS,"Earnings Per Share, Basic",Net income (loss) per share - basic (in USD per share)
+245571,0001652044-16-000012,ALPHABET INC.,33,IS,"Earnings Per Share, Diluted",Net income (loss) per share - diluted (in USD per share)
+245572,0001652044-16-000012,ALPHABET INC.,21,BS,Goodwill,Goodwill
+245573,0001652044-16-000012,ALPHABET INC.,24,CF,Increase (Decrease) in Operating Capital [Abstract],"Changes in assets and liabilities, net of effects of acquisitions:"
+245574,0001652044-16-000012,ALPHABET INC.,20,BS,"Intangible Assets, Net (Excluding Goodwill)","Intangible assets, net"
+245575,0001652044-16-000012,ALPHABET INC.,34,BS,Long-term Debt and Capital Lease Obligations,Long-term debt
+245576,0001652044-16-000012,ALPHABET INC.,51,CF,Net Cash Provided by (Used in) Financing Activities,Net cash used in financing activities
+245577,0001652044-16-000012,ALPHABET INC.,43,CF,Net Cash Provided by (Used in) Financing Activities [Abstract],Financing activities
+245578,0001652044-16-000012,ALPHABET INC.,42,CF,Net Cash Provided by (Used in) Investing Activities,Net cash used in investing activities
+245579,0001652044-16-000012,ALPHABET INC.,33,CF,Net Cash Provided by (Used in) Investing Activities [Abstract],Investing activities
+245580,0001652044-16-000012,ALPHABET INC.,32,CF,Net Cash Provided by (Used in) Operating Activities,Net cash provided by operating activities
+245581,0001652044-16-000012,ALPHABET INC.,13,CF,Net Cash Provided by (Used in) Operating Activities [Abstract],Operating activities
+245582,0001652044-16-000012,ALPHABET INC.,9,CI,"Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax [Abstract]",Available-for-sale investments:
+245583,0001652044-16-000012,ALPHABET INC.,13,CI,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax [Abstract]",Cash flow hedges:
+245584,0001652044-16-000012,ALPHABET INC.,15,CI,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Net of Tax",Less: reclassification adjustment for net gains included in net income
+245585,0001652044-16-000012,ALPHABET INC.,14,CI,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Net of Tax",Change in net unrealized gains
+245586,0001652044-16-000012,ALPHABET INC.,10,CI,"Other Comprehensive Income (Loss), Unrealized Holding Gain (Loss) on Securities Arising During Period, Net of Tax",Change in net unrealized gains (losses)
+245587,0001652044-16-000012,ALPHABET INC.,38,BS,"Other Liabilities, Noncurrent",Other long-term liabilities
+245588,0001652044-16-000012,ALPHABET INC.,23,CF,Other Noncash Income (Expense),Other
+245589,0001652044-16-000012,ALPHABET INC.,13,IS,Research and Development Expense,Research and development
+245590,0001652044-16-000012,ALPHABET INC.,18,CF,Share-based Compensation,Stock-based compensation expense
+245591,0001652044-16-000012,ALPHABET INC.,5,CI,Statement [Line Items],Statement [Line Items]
+245592,0001652044-16-000012,ALPHABET INC.,5,CI,Statement [Line Items],Statement [Line Items]
+245593,0001652044-16-000012,ALPHABET INC.,12,CF,Statement [Line Items],Statement [Line Items]
+245594,0001652044-16-000012,ALPHABET INC.,10,BS,Statement [Line Items],Statement [Line Items]
+245595,0001652044-16-000012,ALPHABET INC.,9,IS,Statement [Line Items],Statement [Line Items]
+245596,0001652044-16-000012,ALPHABET INC.,13,EQ,Statement [Line Items],Statement [Line Items]
+245597,0001652044-16-000012,ALPHABET INC.,5,BS,Statement [Line Items],Statement [Line Items]
+245598,0001652044-16-000012,ALPHABET INC.,1,EQ,Statement [Table],Statement [Table]
+245599,0001652044-16-000012,ALPHABET INC.,1,BS,Statement [Table],Statement [Table]
+245600,0001652044-16-000012,ALPHABET INC.,1,CF,Statement [Table],Statement [Table]
+245601,0001652044-16-000012,ALPHABET INC.,1,BS,Statement [Table],Statement [Table]
+245602,0001652044-16-000012,ALPHABET INC.,1,CI,Statement [Table],Statement [Table]
+245603,0001652044-16-000012,ALPHABET INC.,1,CI,Statement [Table],Statement [Table]
+245604,0001652044-16-000012,ALPHABET INC.,1,IS,Statement [Table],Statement [Table]
+245605,0001652044-16-000012,ALPHABET INC.,6,EQ,Entity [Domain],Entity [Domain]
+245606,0001652044-16-000012,ALPHABET INC.,3,BS,Entity [Domain],Entity [Domain]
+245607,0001652044-16-000012,ALPHABET INC.,3,BS,Entity [Domain],Entity [Domain]
+245608,0001652044-16-000012,ALPHABET INC.,3,CF,Entity [Domain],Entity [Domain]
+245609,0001652044-16-000012,ALPHABET INC.,3,CI,Entity [Domain],Entity [Domain]
+245610,0001652044-16-000012,ALPHABET INC.,3,CI,Entity [Domain],Entity [Domain]
+245611,0001652044-16-000012,ALPHABET INC.,3,IS,Entity [Domain],Entity [Domain]
+245612,0001652044-16-000012,ALPHABET INC.,3,CP,Entity [Domain],Entity [Domain]
+245613,0001652044-16-000012,ALPHABET INC.,2,CP,Legal Entity [Axis],Legal Entity [Axis]
+245614,0001652044-16-000012,ALPHABET INC.,2,IS,Legal Entity [Axis],Legal Entity [Axis]
+245615,0001652044-16-000012,ALPHABET INC.,2,CI,Legal Entity [Axis],Legal Entity [Axis]
+245616,0001652044-16-000012,ALPHABET INC.,2,CI,Legal Entity [Axis],Legal Entity [Axis]
+245617,0001652044-16-000012,ALPHABET INC.,2,CF,Legal Entity [Axis],Legal Entity [Axis]
+245618,0001652044-16-000012,ALPHABET INC.,2,BS,Legal Entity [Axis],Legal Entity [Axis]
+245619,0001652044-16-000012,ALPHABET INC.,5,EQ,Legal Entity [Axis],Legal Entity [Axis]
+245620,0001652044-16-000012,ALPHABET INC.,2,BS,Legal Entity [Axis],Legal Entity [Axis]
+245621,0001652044-16-000012,ALPHABET INC.,19,EQ,"Adjustments to Additional Paid in Capital, Share-based Compensation, Requisite Service Period Recognition",Stock-based compensation expense
+245622,0001652044-16-000012,ALPHABET INC.,20,EQ,"Adjustments to Additional Paid in Capital, Income Tax Benefit from Share-based Compensation",Stock-based compensation tax benefits
+245623,0001652044-16-000012,ALPHABET INC.,35,BS,"Deferred Revenue, Noncurrent","Deferred revenue, non-current"
+245624,0001652044-16-000012,ALPHABET INC.,9,EQ,Equity Component [Domain],Equity Component [Domain]
+245625,0001652044-16-000012,ALPHABET INC.,31,CF,Increase (Decrease) in Deferred Revenue,Deferred revenue
+245626,0001652044-16-000012,ALPHABET INC.,14,EQ,Increase (Decrease) in Stockholders' Equity [Roll Forward],Increase (Decrease) in Stockholders' Equity [Roll Forward]
+245627,0001652044-16-000012,ALPHABET INC.,18,IS,Nonoperating Income (Expense),"Other income (expense), net"
+245628,0001652044-16-000012,ALPHABET INC.,15,BS,"Preferred Stock, Shares Issued","Convertible preferred stock, shares issued (in shares)"
+245629,0001652044-16-000012,ALPHABET INC.,12,EQ,Retained Earnings [Member],Retained Earnings
+245630,0001652044-16-000012,ALPHABET INC.,8,EQ,Equity Components [Axis],Equity Components [Axis]
+245631,0001652044-16-000012,ALPHABET INC.,11,EQ,AOCI Attributable to Parent [Member],Accumulated Other Comprehensive Income (Loss)
+245632,0001652044-16-000012,ALPHABET INC.,3,EQ,Class of Stock [Domain],Class of Stock [Domain]
+245633,0001652044-16-000012,ALPHABET INC.,6,BS,Class of Stock [Domain],Class of Stock [Domain]
+245634,0001652044-16-000012,ALPHABET INC.,6,IS,Class of Stock [Domain],Class of Stock [Domain]
+245635,0001652044-16-000012,ALPHABET INC.,6,CP,Class of Stock [Domain],Class of Stock [Domain]
+245636,0001652044-16-000012,ALPHABET INC.,7,CP,Common Class A [Member],Class A Common Stock
+245637,0001652044-16-000012,ALPHABET INC.,7,BS,Common Class A [Member],Class A Common Stock
+245638,0001652044-16-000012,ALPHABET INC.,20,CF,Deferred Income Taxes and Tax Credits,Deferred income taxes
+245639,0001652044-16-000012,ALPHABET INC.,52,CF,Effect of Exchange Rate on Cash and Cash Equivalents,Effect of exchange rate changes on cash and cash equivalents
+245640,0001652044-16-000012,ALPHABET INC.,16,CI,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax","Net change (net of tax effect of $30, $196, and $115)"
+245641,0001652044-16-000012,ALPHABET INC.,7,CI,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Tax",Tax effect related to cash flow hedges
+245642,0001652044-16-000012,ALPHABET INC.,8,CI,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",Change in foreign currency translation adjustment
+245643,0001652044-16-000012,ALPHABET INC.,5,CP,Class of Stock [Axis],Class of Stock [Axis]
+245644,0001652044-16-000012,ALPHABET INC.,5,IS,Class of Stock [Axis],Class of Stock [Axis]
+245645,0001652044-16-000012,ALPHABET INC.,5,BS,Class of Stock [Axis],Class of Stock [Axis]
+245646,0001652044-16-000012,ALPHABET INC.,2,EQ,Class of Stock [Axis],Class of Stock [Axis]
+245647,0001652044-16-000012,ALPHABET INC.,25,IS,"Net Income (Loss) Available to Common Stockholders, Basic",Net income available to all stockholders
+245648,0001652044-16-000012,ALPHABET INC.,37,BS,"Deferred Tax Liabilities, Net, Noncurrent",Deferred income taxes
+245649,0001652044-16-000012,ALPHABET INC.,27,IS,"Income (Loss) from Continuing Operations, Per Basic Share",Continuing operations (in USD per share)
+245650,0001652044-16-000012,ALPHABET INC.,31,IS,"Income (Loss) from Continuing Operations, Per Diluted Share",Continuing operations (in USD per share)
+245651,0001652044-16-000012,ALPHABET INC.,22,IS,"Income (Loss) from Discontinued Operations, Net of Tax, Including Portion Attributable to Noncontrolling Interest",Net income (loss) from discontinued operations
+245652,0001652044-16-000012,ALPHABET INC.,12,CI,"Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax","Net change (net of tax effect of $212, $60, and $29)"
+245653,0001652044-16-000012,ALPHABET INC.,6,CI,"Other Comprehensive Income (Loss), Available-for-sale Securities, Tax",Tax effect related to available-for-sale investments
+245654,0001652044-16-000012,ALPHABET INC.,17,CI,"Other Comprehensive Income (Loss), Net of Tax",Other comprehensive loss
+245655,0001652044-16-000012,ALPHABET INC.,28,EQ,"Other Comprehensive Income (Loss), Net of Tax",Other comprehensive loss
+245656,0001652044-16-000012,ALPHABET INC.,17,EQ,"Stock Issued During Period, Shares, New Issues",Common stock issued (in shares)
+245657,0001652044-16-000012,ALPHABET INC.,18,EQ,"Stock Issued During Period, Value, New Issues",Common stock issued
+245658,0001652044-16-000012,ALPHABET INC.,4,CP,Subsidiaries [Member],Google Inc.
+245659,0001652044-16-000012,ALPHABET INC.,4,IS,Subsidiaries [Member],Google Inc.
+245660,0001652044-16-000012,ALPHABET INC.,4,CI,Subsidiaries [Member],Google Inc.
+245661,0001652044-16-000012,ALPHABET INC.,4,CI,Subsidiaries [Member],Google Inc.
+245662,0001652044-16-000012,ALPHABET INC.,4,CF,Subsidiaries [Member],Google Inc.
+245663,0001652044-16-000012,ALPHABET INC.,4,BS,Subsidiaries [Member],Google Inc.
+245664,0001652044-16-000012,ALPHABET INC.,4,BS,Subsidiaries [Member],Google Inc.
+245665,0001652044-16-000012,ALPHABET INC.,7,EQ,Subsidiaries [Member],Google Inc.
+245666,0001652044-16-000012,ALPHABET INC.,56,CF,Supplemental Cash Flow Information [Abstract],Supplemental disclosures of cash flow information
+245667,0001652044-16-000012,ALPHABET INC.,58,CF,Interest Paid,Cash paid for interest
+245668,0001652044-16-000012,ALPHABET INC.,48,CF,Payments for Repurchase of Common Stock,Repurchases of capital stock
+245669,0001652044-16-000012,ALPHABET INC.,9,CF,Disposal Group Name [Domain],"Disposal Groups, Including Discontinued Operations, Name [Domain]"
+245670,0001652044-16-000012,ALPHABET INC.,26,IS,"Earnings Per Share, Basic [Abstract]",Net income (loss) per share of Class A and Class B common stock and Class C capital stock - basic:
+245671,0001652044-16-000012,ALPHABET INC.,30,IS,"Earnings Per Share, Diluted [Abstract]",Net income (loss) per share of Class A and Class B common stock and Class C capital stock - diluted:
+245672,0001652044-16-000012,ALPHABET INC.,28,IS,"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Basic Share",Discontinued operations (in USD per share)
+245673,0001652044-16-000012,ALPHABET INC.,32,IS,"Income (Loss) from Discontinued Operations and Disposal of Discontinued Operations, Net of Tax, Per Diluted Share",Discontinued operations (in USD per share)
+245674,0001652044-16-000012,ALPHABET INC.,8,CF,Disposal Group Name [Axis],Disposal Group Name [Axis]
+245675,0001652044-16-000012,ALPHABET INC.,7,CI,"Other Comprehensive Income (Loss), Net of Tax [Abstract]",Other comprehensive income (loss):
+245676,0001652044-16-000012,ALPHABET INC.,37,CF,Payments to Acquire Other Investments,Purchases of non-marketable investments
+245677,0001652044-16-000012,ALPHABET INC.,26,BS,"Debt, Current",Short-term debt
+245678,0001652044-16-000012,ALPHABET INC.,17,BS,Other Long-term Investments,Non-marketable investments
+245679,0001652044-16-000012,ALPHABET INC.,32,BS,"Accrued Income Taxes, Current","Income taxes payable, net"
+245680,0001652044-16-000012,ALPHABET INC.,45,CF,"Excess Tax Benefit from Share-based Compensation, Financing Activities",Excess tax benefits from stock-based award activities
+245681,0001652044-16-000012,ALPHABET INC.,19,CF,"Excess Tax Benefit from Share-based Compensation, Operating Activities",Excess tax benefits from stock-based award activities
+245682,0001652044-16-000012,ALPHABET INC.,40,CF,Proceeds from Divestiture of Businesses,Proceeds from divestiture of business
+245683,0001652044-16-000012,ALPHABET INC.,15,EQ,"Shares, Issued",Beginning Balance (in shares)
+245684,0001652044-16-000012,ALPHABET INC.,30,EQ,"Shares, Issued",Ending Balance (in shares)
+245685,0001652044-16-000012,ALPHABET INC.,21,IS,Income (Loss) from Continuing Operations Attributable to Parent,Net income from continuing operations
+245686,0001652044-16-000012,ALPHABET INC.,57,CF,Income Taxes Paid,Cash paid for taxes
+245687,0001652044-16-000012,ALPHABET INC.,14,IS,Selling and Marketing Expense,Sales and marketing
+245688,0001652044-16-000012,ALPHABET INC.,24,IS,Preferred Stock Dividends and Other Adjustments,Less: Adjustment Payment to Class C capital stockholders
+245689,0001652044-16-000012,ALPHABET INC.,23,EQ,"Stock Repurchased and Retired During Period, Value",Repurchases of capital stock
+245690,0001652044-16-000012,ALPHABET INC.,22,EQ,"Stock Repurchased and Retired During Period, Shares",Repurchases of capital stock (in shares)
+245691,0001652044-16-000012,ALPHABET INC.,27,BS,"Employee-related Liabilities, Current",Accrued compensation and benefits
+245692,0001652044-16-000012,ALPHABET INC.,35,CF,Payments to Acquire Marketable Securities,Purchases of marketable securities
+245693,0001652044-16-000012,ALPHABET INC.,49,CF,"Proceeds from Debt, Net of Issuance Costs","Proceeds from issuance of debt, net of costs"
+245694,0001652044-16-000012,ALPHABET INC.,12,IS,Cost of Revenue,Cost of revenues
+245695,0001652044-16-000012,ALPHABET INC.,8,BS,Common Class B [Member],Class B Common Stock
+245696,0001652044-16-000012,ALPHABET INC.,8,CP,Common Class B [Member],Class B Common Stock
+245697,0001652044-16-000012,ALPHABET INC.,11,CI,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",Less: reclassification adjustment for net (gains) losses included in net income
+245698,0001652044-16-000012,ALPHABET INC.,10,BS,"Cash, Cash Equivalents, and Short-term Investments","Total cash, cash equivalents, and marketable securities (including securities loaned of $4,058 and $4,531)"
+245699,0001652044-16-000012,ALPHABET INC.,18,BS,"Deferred Tax Assets, Net, Noncurrent",Deferred income taxes
+245700,0001652044-16-000012,ALPHABET INC.,10,EQ,Common Stock Including Additional Paid in Capital [Member],"Class A and Class B Common Stock, Class C Capital Stock and Additional Paid-In Capital"
+245701,0001652044-16-000012,ALPHABET INC.,42,BS,"Common Stocks, Including Additional Paid in Capital","Class A and Class B common stock, and Class C capital stock and additional paid-in capital"
+245702,0001652044-16-000012,ALPHABET INC.,9,BS,"Available-for-sale Securities, Current",Marketable securities
+245703,0001652044-16-000012,ALPHABET INC.,36,CF,Proceeds from Sale and Maturity of Marketable Securities,Maturities and sales of marketable securities
+245704,0001652044-16-000012,ALPHABET INC.,50,CF,Repayments of Debt,Repayments of debt
+245705,0001652044-16-000012,ALPHABET INC.,26,CF,Increase (Decrease) in Income Taxes,"Income taxes, net"
+245706,0001652044-16-000012,ALPHABET INC.,25,CP,Entity Public Float,Entity Public Float
+245707,0001652044-16-000012,ALPHABET INC.,14,CP,Document Fiscal Year Focus,Document Fiscal Year Focus
+245708,0001652044-16-000012,ALPHABET INC.,13,CP,Document Period End Date,Document Period End Date
+245709,0001652044-16-000012,ALPHABET INC.,19,CP,Current Fiscal Year End Date,Current Fiscal Year End Date
+245710,0001652044-16-000012,ALPHABET INC.,36,BS,"Liability for Uncertain Tax Positions, Noncurrent","Income taxes payable, non-current"
+245711,0001652044-16-000012,ALPHABET INC.,6,CF,"Business Acquisition, Acquiree [Domain]","Business Acquisition, Acquiree [Domain]"
+245712,0001652044-16-000012,ALPHABET INC.,5,CF,Business Acquisition [Axis],Business Acquisition [Axis]
+245713,0001652044-16-000012,ALPHABET INC.,12,CP,Amendment Flag,Amendment Flag
+245714,0001652044-16-000012,ALPHABET INC.,41,BS,"Convertible Preferred Stock, Nonredeemable or Redeemable, Issuer Option, Value",Convertible preferred stock
+245715,0001652044-16-000012,ALPHABET INC.,30,BS,"Deposits Received for Securities Loaned, at Carrying Value",Securities lending payable
+245716,0001652044-16-000012,ALPHABET INC.,15,CP,Document Fiscal Period Focus,Document Fiscal Period Focus
+245717,0001652044-16-000012,ALPHABET INC.,10,CP,Document Information [Line Items],Document Information [Line Items]
+245718,0001652044-16-000012,ALPHABET INC.,11,CP,Document Type,Document Type
+245719,0001652044-16-000012,ALPHABET INC.,1,CP,Entities [Table],Entities [Table]
+245720,0001652044-16-000012,ALPHABET INC.,18,CP,Entity Central Index Key,Entity Central Index Key
+245721,0001652044-16-000012,ALPHABET INC.,24,CP,"Entity Common Stock, Shares Outstanding","Entity Common Stock, Shares Outstanding"
+245722,0001652044-16-000012,ALPHABET INC.,21,CP,Entity Current Reporting Status,Entity Current Reporting Status
+245723,0001652044-16-000012,ALPHABET INC.,23,CP,Entity Filer Category,Entity Filer Category
+245724,0001652044-16-000012,ALPHABET INC.,17,CP,Entity Registrant Name,Entity Registrant Name
+245725,0001652044-16-000012,ALPHABET INC.,22,CP,Entity Voluntary Filers,Entity Voluntary Filers
+245726,0001652044-16-000012,ALPHABET INC.,20,CP,Entity Well-known Seasoned Issuer,Entity Well-known Seasoned Issuer
+245727,0001652044-16-000012,ALPHABET INC.,38,CF,Increase (Decrease) in Collateral Held under Securities Lending,Cash collateral related to securities lending
+245728,0001652044-16-000012,ALPHABET INC.,16,CP,Trading Symbol,Trading Symbol
+245729,0001652044-16-000012,ALPHABET INC.,29,BS,Accrued Revenue Share,Accrued revenue share
+245730,0001652044-16-000012,ALPHABET INC.,41,CF,Acquisitions Net Of Cash Acquired And Purchases Of Intangible And Other Assets,"Acquisitions, net of cash acquired, and purchases of intangibles and other assets"
+245731,0001652044-16-000012,ALPHABET INC.,24,EQ,"Adjustments to Additional Paid in Capital, Parent Company Transaction",Capital transactions with Alphabet
+245732,0001652044-16-000012,ALPHABET INC.,25,EQ,"Adjustments to Additional Paid in Capital, Shares Issued for Litigation Settlement",Adjustment Payment to Class C capital stockholders (in shares)
+245733,0001652044-16-000012,ALPHABET INC.,26,EQ,"Adjustments to Additional Paid in Capital, Value of Shares Issued and Dividend Payment for Litigation Settlement",Adjustment Payment to Class C capital stockholders
+245734,0001652044-16-000012,ALPHABET INC.,17,CF,Amortization and Impairment of Intangible and Other Assets,Amortization and impairment of intangible assets
+245735,0001652044-16-000012,ALPHABET INC.,7,CF,bebop Technologies [Member],bebop Technologies
+245736,0001652044-16-000012,ALPHABET INC.,9,CP,Capital Class C [Member],Class C Capital Stock
+245737,0001652044-16-000012,ALPHABET INC.,8,IS,Capital Class C [Member],Class C Capital Stock
+245738,0001652044-16-000012,ALPHABET INC.,9,BS,Capital Class C [Member],Class C Capital Stock
+245739,0001652044-16-000012,ALPHABET INC.,4,EQ,Capital Class C [Member],Class C Capital Stock
+245740,0001652044-16-000012,ALPHABET INC.,7,IS,Common Class A and Common Class B [Member],Common Class A and Common Class B
+245741,0001652044-16-000012,ALPHABET INC.,16,CF,Depreciation and Impairment on Disposition of Property and Equipment,Depreciation and impairment of property and equipment
+245742,0001652044-16-000012,ALPHABET INC.,22,CF,"Gain (Loss) on Marketable and Non-marketable Investments, Net","(Gain) loss on marketable and non-marketable investments, net"
+245743,0001652044-16-000012,ALPHABET INC.,21,CF,"Gain (Loss) on Sale of Business, Including Discontinued Operations",Gain on divestiture of business
+245744,0001652044-16-000012,ALPHABET INC.,30,CF,Increase Decrease In Accrued Revenue Share,Accrued revenue share
+245745,0001652044-16-000012,ALPHABET INC.,27,CF,Increase Decrease In Prepaid Revenue Share Expenses And Other Assets,"Prepaid revenue share, expenses and other assets"
+245746,0001652044-16-000012,ALPHABET INC.,39,CF,Investments In Reverse Repurchase Agreements,Investments in reverse repurchase agreements
+245747,0001652044-16-000012,ALPHABET INC.,11,CF,Motorola Home [Member],Motorola Home
+245748,0001652044-16-000012,ALPHABET INC.,10,CF,Motorola Mobility Holdings Inc [Member],Motorola Mobile
+245749,0001652044-16-000012,ALPHABET INC.,44,CF,Net Proceeds Payments Related To Stock Based Award Activities,Net payments related to stock-based award activities
+245750,0001652044-16-000012,ALPHABET INC.,47,CF,Payments for Parent Company Transaction,Capital transactions with Alphabet
+245751,0001652044-16-000012,ALPHABET INC.,14,BS,Prepaid Revenue Share Expenses And Other Assets Current,"Prepaid revenue share, expenses and other assets"
+245752,0001652044-16-000012,ALPHABET INC.,16,BS,Prepaid Revenue Share Expenses And Other Assets Noncurrent,"Prepaid revenue share, expenses and other assets, non-current"
+245753,0001652044-16-000012,ALPHABET INC.,12,BS,Receivable Under Reverse Repurchase Agreements,Receivable under reverse repurchase agreements
+245754,0001652044-16-000012,ALPHABET INC.,11,BS,Securities Owned And Loaned,"Total cash, cash equivalents, and marketable securities, securities loaned"
+245755,0001652044-16-000012,ALPHABET INC.,21,EQ,Tax Withholding Related To Vesting Of Restricted Stock Units,Tax withholding related to vesting of restricted stock units
